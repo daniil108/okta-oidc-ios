@@ -11,6 +11,9 @@
  */
 
 // Okta Extension of OIDAuthorizationService
+
+import AppAuth
+
 extension OIDAuthorizationService {
 
     static func perform(authRequest: OIDAuthorizationRequest, callback: @escaping OIDAuthorizationCallback) {

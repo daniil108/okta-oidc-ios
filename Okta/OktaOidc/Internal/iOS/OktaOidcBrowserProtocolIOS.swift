@@ -11,6 +11,7 @@
 */
 
 import Foundation
+import UIKit
 
 @objc public protocol OktaOidcBrowserProtocolIOS {
     func signInWithBrowser(from presenter: UIViewController,

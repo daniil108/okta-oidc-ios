@@ -11,6 +11,8 @@
  */
 
 import Foundation
+import AppAuth
+import OktaUserAgent
 
 public class OktaOidcConfig: NSObject, Codable {
     @objc public static let defaultPlistName = "Okta"

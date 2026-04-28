@@ -11,6 +11,9 @@
  */
 
 // Okta Extension of OIDAuthState
+
+import AppAuth
+
 extension OIDAuthState {
 
     static func getState(withAuthRequest authRequest: OIDAuthorizationRequest, callback: @escaping (OIDAuthState?, OktaOidcError?) -> Void ) {

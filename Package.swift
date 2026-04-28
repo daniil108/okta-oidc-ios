@@ -22,7 +22,8 @@ let package = Package(
             ],
             publicHeadersPath: ".",
             cSettings: [
-                .define("TARGET_OS_IOS", to: "1")
+                .define("TARGET_OS_IOS", to: "1"),
+                .headerSearchPath("../OktaUserAgent")
             ]
         ),
         .target(
