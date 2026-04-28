@@ -1,3 +1,0 @@
-module OktaOidc {
-    header "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/include/OktaOidc-Swift.h"
-}
