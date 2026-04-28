@@ -1,0 +1,4 @@
+module AppAuth {
+    umbrella "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/AppAuth"
+    export *
+}

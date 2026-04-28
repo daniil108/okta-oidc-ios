@@ -1,0 +1,4 @@
+module OktaUserAgent {
+    umbrella header "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaUserAgent/OktaUserAgent.h"
+    export *
+}

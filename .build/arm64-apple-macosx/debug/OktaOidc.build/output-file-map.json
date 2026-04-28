@@ -1,0 +1,138 @@
+{
+  "": {
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/primary.swiftdeps"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/OIDAuthState+Okta.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthState+Okta.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthState+Okta.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthState+Okta~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthState+Okta.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthState+Okta.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/OIDAuthorizationService+Okta.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthorizationService+Okta.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthorizationService+Okta.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthorizationService+Okta~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthorizationService+Okta.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OIDAuthorizationService+Okta.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/OktaOidcEndpoint.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcEndpoint.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcEndpoint.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcEndpoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcEndpoint.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcEndpoint.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/OktaOidcRestApi.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcRestApi.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcRestApi.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcRestApi~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcRestApi.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcRestApi.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/OktaOidcSignOutHandler.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandler.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandler.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandler.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandler.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/Tasks/OktaOidcAuthenticate.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcAuthenticate.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcAuthenticate.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcAuthenticate~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcAuthenticate.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcAuthenticate.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/Tasks/OktaOidcBrowserTask.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTask.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTask.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTask~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTask.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTask.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/Tasks/OktaOidcTask.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcTask.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcTask.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcTask~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcTask.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcTask.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/Tasks/iOS/OktaOidcBrowserTaskIOS.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTaskIOS.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTaskIOS.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTaskIOS~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTaskIOS.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserTaskIOS.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/iOS/OktaOidcBrowserProtocolIOS.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserProtocolIOS.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserProtocolIOS.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserProtocolIOS~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserProtocolIOS.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcBrowserProtocolIOS.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/Internal/iOS/OktaOidcSignOutHandlerIOS.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandlerIOS.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandlerIOS.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandlerIOS~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandlerIOS.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcSignOutHandlerIOS.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/OktaOidc.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/OktaOidcConfig.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcConfig.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcConfig.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcConfig.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcConfig.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/OktaOidcError.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcError.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcError.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcError~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcError.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcError.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/OktaOidcKeychain.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcKeychain.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcKeychain.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcKeychain~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcKeychain.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcKeychain.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/OktaOidcStateManager.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcStateManager.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcStateManager.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcStateManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcStateManager.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcStateManager.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/OktaOidcUtils.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcUtils.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcUtils.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcUtils.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidcUtils.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/OktaSignOutOptions.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaSignOutOptions.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaSignOutOptions.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaSignOutOptions~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaSignOutOptions.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaSignOutOptions.dia"
+  },
+  "/Users/daniil/work_files/Infobric/okta-oidc-ios/Okta/OktaOidc/iOS/OktaOidc+Browser.swift": {
+    "dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc+Browser.d",
+    "object": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc+Browser.swift.o",
+    "swiftmodule": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc+Browser~partial.swiftmodule",
+    "swift-dependencies": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc+Browser.swiftdeps",
+    "diagnostics": "/Users/daniil/work_files/Infobric/okta-oidc-ios/.build/arm64-apple-macosx/debug/OktaOidc.build/OktaOidc+Browser.dia"
+  }
+}
